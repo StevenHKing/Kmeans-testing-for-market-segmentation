@@ -24,3 +24,8 @@ The goal is to identify customer segments based on behavioral data using the K-m
 - How to determine the optimal number of clusters  
 - How to interpret and visualize customer segments  
 - How segmentation supports pricing and marketing strategy
+
+R, Econometrics, Marketing-Analytics, Discrete-Choice, Data-Science, MBA
+
+---
+*Author: Steven H. King — UC San Diego, MGT 100 Project (2025)*
