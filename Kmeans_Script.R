@@ -1,6 +1,5 @@
-## Class 3
 
-#### Steven King MGT 100 
+#### Steven King
 
 
 # THE BASICS -----
